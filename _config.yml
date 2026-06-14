@@ -13,9 +13,9 @@ title                    : "Dr. Nizhum Rahman"
 title_separator          : "-"
 name                     : &name "Dr. Nizhum Rahman"
 description              : &description "Applied Mathematics | Mathematical Biology | Computational Modeling"
-url                      : "https://YOUR_USERNAME.github.io"
+url                      : "https://nizhum37.github.io"
 baseurl                  : ""
-repository               : "YOUR_USERNAME/YOUR_USERNAME.github.io"
+repository               : "Nizhum37/Nizhum37.github.io"
 
 # Site Author
 author:
