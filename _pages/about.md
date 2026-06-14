@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "Dr. Nizhum Rahman"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 Welcome to my academic website.
