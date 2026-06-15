@@ -7,10 +7,10 @@ author_profile: true
 
 ## Preprints
 
-1. **Nizhum Rahman** and Trachette Jackson.  
-   *Predicting Combination Therapy Response in HER2-Heterogeneous Breast Cancer Using Agent-Based Modeling and Interpretable Machine Learning.*  
+1. **Nizhum Rahman** and Trachette L. Jackson.  
+   *Spatial Agent-Based Modeling and Interpretable Machine Learning Predict Combination Therapy Response in HER2-Heterogeneous Breast Cancer.*  
    bioRxiv, 2026.  
-   [Link](https://doi.org/10.1101/2026.03.14.711774)
+   [Link](https://doi.org/10.64898/2026.03.14.711774)
 
 2. Aleksandra Gavrilova, Trachette Jackson, and **Nizhum Rahman**.  
    *Phenotypic Plasticity and Competition Shape Therapy Sequencing in HER2+/HER2- Breast Cancer: A Mathematical Framework.*  
