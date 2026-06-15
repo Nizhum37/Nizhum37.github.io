@@ -1,20 +1,63 @@
+## University of Michigan, Ann Arbor, USA
+
+### Assistant Professor
+
+| Academic Term | Course                                            |
+| ------------- | ------------------------------------------------- |
+| Winter 2026   | MATH 216 – Introduction to Differential Equations |
+| Fall 2025     | MATH/ENGR 371 – Numerical Methods for Engineering |
+| Spring 2025   | MATH 215 – Multivariable and Vector Calculus      |
+| Winter 2025   | MATH/ENGR 371 – Numerical Methods for Engineering |
+| Fall 2024     | MATH 156 – Applied Honors Calculus II             |
+
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+
+## Queensland University of Technology (QUT), Australia
+
+### Lecturer and Unit Coordinator
+
+| Year | Course                                                    |
+| ---- | --------------------------------------------------------- |
+| 2023 | MXB100 – Introductory Calculus and Algebra (188 students) |
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## University of Queensland (UQ), Australia
 
-Heading 1
-======
+### Tutor
 
-Heading 2
-======
+| Year       | Course                                                           |
+| ---------- | ---------------------------------------------------------------- |
+| 2021       | MATH1052 – Multivariate Calculus and ODEs                        |
+| 2021       | MATH2001/7000 – Advanced Calculus and Linear Algebra II          |
+| 2020       | MATH2100/7100 – Analysis of ODEs / Applied Mathematical Analysis |
+| 2020, 2019 | MATH1051 – Calculus and Linear Algebra I                         |
+| 2020       | MATH1051 – Calculus and Linear Algebra I (MATLAB)                |
+| 2019       | MATH1050/7050 – Mathematical Foundations                         |
 
-Heading 3
-======
+---
+
+## Daffodil International University (DIU), Bangladesh
+
+### Lecturer and Senior Lecturer
+
+| Year                   | Course                                                        |
+| ---------------------- | ------------------------------------------------------------- |
+| 2018                   | MAT111 – Basic Mathematics                                    |
+| 2018, 2017, 2015       | MAT102 – Mathematics II (Linear Algebra and Fourier Analysis) |
+| 2018, 2017, 2016, 2015 | MAT134 – Ordinary and Partial Differential Equations          |
+| 2017, 2016             | MAT121 – Linear Algebra and Coordinate Geometry               |
+| 2018, 2017, 2015       | MAT211 – Engineering Mathematics (Numerical Analysis)         |
+
+---
+
+## Independent University, Bangladesh (IUB)
+
+### Lecturer
+
+| Year             | Course                                          |
+| ---------------- | ----------------------------------------------- |
+| 2017             | MAT100 – Basic University Mathematics I         |
+| 2017, 2016, 2015 | MAT101 – Intermediate University Mathematics II |
+| 2016             | MAT211 – Probability and Statistics             |
+| 2016, 2015       | MAT100A – Basic Algebra                         |
