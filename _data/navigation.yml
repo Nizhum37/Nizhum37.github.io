@@ -17,11 +17,13 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  
         
   - title: "Mentoring"
     url: /mentoring/
+
+    - title: "Awards & Grants"
+  url: /awards/
     
     
   - title: "CV"
