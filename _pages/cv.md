@@ -46,7 +46,7 @@ Department of Mathematics
 
 ### Queensland University of Technology (QUT), Australia
 
-**Postdoctoral Research Fellow**, 2023–2024
+**Postdoctoral Research Fellow**, 2022–2024
 
 School of Mathematical Sciences
 
@@ -54,9 +54,9 @@ School of Mathematical Sciences
 
 ### Daffodil International University, Bangladesh
 
-**Senior Lecturer**, 2018
+**Senior Lecturer**, 2018-2018
 
-Department of General Educational Development (GED)
+Department of General Educational Development (GED)/ Natural Sciences
 
 ---
 
@@ -64,7 +64,7 @@ Department of General Educational Development (GED)
 
 **Lecturer**, 2015–2018
 
-Department of General Educational Development (GED)
+Department of General Educational Development (GED)/ Natural Sciences
 
 ---
 
