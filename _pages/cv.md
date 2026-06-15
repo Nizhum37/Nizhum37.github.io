@@ -6,14 +6,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
 
-* /resume
+- /resume
 
 ---
 
 {% include base_path %}
-
-
-
 
 # Education
 
@@ -22,8 +19,6 @@ redirect_from:
 **Ph.D. in Applied Mathematics**, 2023
 
 Dissertation: *A Study of Mathematical Models for Collective Cell Migration and Axonal Transport*
-
-
 
 ---
 
