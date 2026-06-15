@@ -12,6 +12,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 # Education
 
 ### University of Queensland, Australia
