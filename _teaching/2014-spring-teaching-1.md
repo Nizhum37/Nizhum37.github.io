@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+I have taught undergraduate and graduate courses in applied mathematics, numerical analysis, differential equations, calculus, linear algebra, probability and statistics, and mathematical modeling across institutions in the United States, Australia, and Bangladesh.
 
 ## University of Michigan, Ann Arbor, USA
 
@@ -25,7 +26,7 @@ author_profile: true
 
 | Year | Course                                                    |
 | ---- | --------------------------------------------------------- |
-| 2023 | MXB100 – Introductory Calculus and Algebra (188 students) |
+| 2023 | MXB100 – Introductory Calculus and Algebra                |
 
 ---
 
