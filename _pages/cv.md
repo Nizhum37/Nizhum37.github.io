@@ -24,7 +24,7 @@ Dissertation: *A Study of Mathematical Models for Collective Cell Migration and 
 
 ### Pabna University of Science and Technology (PUST), Bangladesh
 
-**M.S. in Mathematics (First Class First)**, 2015
+**M.S. in Applied Mathematics (First Class First)**, 2015
 
 ---
 
