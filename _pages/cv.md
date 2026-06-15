@@ -1,64 +1,77 @@
 ---
+
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+
+* /resume
+
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### University of Queensland, Australia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Ph.D. in Applied Mathematics**, 2023
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Dissertation: *A Study of Mathematical Models for Collective Cell Migration and Axonal Transport*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+---
+
+### Pabna University of Science and Technology (PUST), Bangladesh
+
+**M.S. in Mathematics (First Class First)**, 2015
+
+---
+
+### Pabna University of Science and Technology (PUST), Bangladesh
+
+**B.S. in Mathematics (First Class First)**, 2013
+
+---
+
+# Professional Appointments
+
+### University of Michigan, USA
+
+**Postdoctoral Assistant Professor**, 2024–Present
+
+Department of Mathematics
+
+---
+
+### Queensland University of Technology (QUT), Australia
+
+**Postdoctoral Research Fellow**, 2023–2024
+
+School of Mathematical Sciences
+
+---
+
+### Daffodil International University, Bangladesh
+
+**Senior Lecturer**, 2018
+
+Department of General Educational Development (GED)
+
+---
+
+### Daffodil International University, Bangladesh
+
+**Lecturer**, 2015–2018
+
+Department of General Educational Development (GED)
+
+---
+
+### Independent University, Bangladesh (IUB)
+
+**Lecturer**, 2015–2017
+
+Department of Physical Sciences
