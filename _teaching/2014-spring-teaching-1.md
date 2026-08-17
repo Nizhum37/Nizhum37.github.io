@@ -32,7 +32,7 @@ I have taught undergraduate and graduate courses in applied mathematics, numeric
 
 ## University of Queensland (UQ), Australia
 
-### Tutor
+### Tuto
 
 | Year       | Course                                                           |
 | ---------- | ---------------------------------------------------------------- |
