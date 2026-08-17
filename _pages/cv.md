@@ -16,7 +16,7 @@ redirect_from:
 
 ### University of Queensland, Australia
 
-**Ph.D. in Applied Mathematics**, 2023
+**Ph.D. in Applied Mathematics, 2023**
 
 Dissertation: *A Study of Mathematical Models for Collective Cell Migration and Axonal Transport*
 
@@ -24,13 +24,13 @@ Dissertation: *A Study of Mathematical Models for Collective Cell Migration and 
 
 ### Pabna University of Science and Technology (PUST), Bangladesh
 
-**M.S. in Applied Mathematics (Graduated First Class First with Distinction)**, 2015
+**M.Sc. in Applied Mathematics, 2015 — First Class First with Distinction**
 
 ---
 
 ### Pabna University of Science and Technology (PUST), Bangladesh
 
-**B.S. in Mathematics (Graduated First Class First with Distinction)**, 2013
+**B.Sc. in Mathematics, 2013 — First Class First with Distinction**
 
 ---
 
