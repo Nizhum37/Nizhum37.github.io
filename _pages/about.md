@@ -20,8 +20,7 @@ My work focuses on developing and analyzing mathematical models to understand co
 * Mathematical oncology
 * Machine learning integrated with mechanistic models
 
-Prior to joining the University of Michigan, I completed my Ph.D. in Applied Mathematics at the University of Queensland, Australia. I also served as a Senior Lecturer in Mathematics at Daffodil International University, Bangladesh.
-
+Before joining the University of Michigan, I was a Postdoctoral Research Fellow at Queensland University of Technology (QUT), Australia, after completing my Ph.D. in Applied Mathematics at the University of Queensland (UQ), Australia.
 ## Research Interests
 
 * Mathematical Biology
