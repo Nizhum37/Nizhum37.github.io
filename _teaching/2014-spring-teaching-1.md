@@ -47,7 +47,7 @@ I have taught undergraduate and graduate courses in applied mathematics, numeric
 
 ## Daffodil International University (DIU), Bangladesh
 
-### Lecturer and Senior Lecturer
+### Lecturer
 
 | Year                   | Course                                                        |
 | ---------------------- | ------------------------------------------------------------- |
