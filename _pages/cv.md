@@ -52,13 +52,7 @@ School of Mathematical Sciences
 
 ---
 
-### Daffodil International University, Bangladesh
 
-**Senior Lecturer**, 2018-2018
-
-Department of General Educational Development (GED)/ Natural Sciences
-
----
 
 ### Daffodil International University, Bangladesh
 
